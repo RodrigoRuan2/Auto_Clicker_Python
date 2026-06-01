@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller (arquivos gerados no build)
+build/
+dist/
+*.spec
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
