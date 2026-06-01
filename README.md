@@ -1,15 +1,15 @@
 # Auto Clicker
 
-Auto clicker compacto, no estilo do GS Auto Clicker: janela principal minima
+Auto clicker compacto janela principal minima
 e configuracoes em pequenas janelas separadas.
 
 ## Janela principal
 
-So um botao grande: "Pressione F6 para clicar". Tudo o mais fica no menu **Opcoes**.
+So um botao grande: "Pressione F6 para clicar". Tudo o mais fica no menu **Opções**.
 
-## Menu Opcoes
+## Menu Opções
 
-**Configuracoes...**
+**Configurações...**
 - Intervalo entre cliques em H / M / S / MS
 - Botao do mouse (esquerdo / direito)
 - Atalho global configuravel (padrao F6) — botao "Alterar"
